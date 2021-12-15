@@ -1,0 +1,9 @@
+.box{
+    width: 400px;
+    border: 1px solid red;
+    margin: 100px auto;
+}
+.box input {
+    width: 370px;
+    height: 30px;
+}
